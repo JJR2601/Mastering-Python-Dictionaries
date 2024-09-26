@@ -4,7 +4,7 @@ space_missions = {
     'ISS': '1998',
     'mars exploration rover': '2003',
     'change 4': '2018',
-    ''
+
 }
 
 print(space_missions)
