@@ -13,7 +13,7 @@ print(technology_innovator)
 
 print(technology_innovator.get('Social Media'))
 
-technology_innovator['Smartphone'] = 'Updated Innovator: Apple Team'
+technology_innovator['Smartphone'] = 'Apple Team'
 
 technology_innovator.pop('Blockchain')
 
